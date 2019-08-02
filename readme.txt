@@ -29,3 +29,6 @@ The key's randomart image is:
 |                 |
 +----[SHA256]-----+
 
+
+
+Creating a new branch is quick.
